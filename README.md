@@ -1,2 +1,2 @@
 # OM
-OM means "Oh My !".See: http://81.69.244.56/
+OM means "Oh My !".See: https://chuyn.cn/

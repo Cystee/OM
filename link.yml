@@ -1,0 +1,80 @@
+- class_name: 本站相关
+  link_list:
+    - name: 我的网盘
+      link: https://pan.casecori.top/
+      avatar: https://cdn.casecori.top/gh/cystee/om/favicon.png
+      descr: 大道至简
+    - name: 我的照片
+      link: https://pixabay.com/zh/users/carick-8396745/
+      avatar: /img/pixabay.webp
+      descr: Pixabay
+    - name: 我的状态
+      link: https://status.casecori.top/
+      avatar: /img/status.webp
+      descr: 治愈绿码
+
+- class_name: 小伙伴们
+  link_list:
+    - name: 炎忍的博客
+      link: https://blog.imyan.ren/
+      avatar: https://blog.imyan.ren/media/avatar.png
+      descr: 心之所愿，无所不成。
+    - name: 小康博客
+      link: https://www.antmoe.com/
+      avatar: https://cdn.casecori.top/npm/kang-static@latest/avatar.jpg
+      descr: 一个收藏回忆与分享技术的地方！
+    - name: CC 康纳百川
+      link: https://blog.ccknbc.cc/
+      avatar: https://cdn.casecori.top/gh/ccknbc-backup/cdn/logo/ccknbc.png
+      descr: CC 康纳百川的小窝
+    - name: 颢天
+      link: https://www.zouht.com/
+      avatar: https://assets.zouht.com/img/icon-chriskim-512x.png
+      descr: Do not go gentle into that good night.
+    - name: CrazyWong
+      link: https://crazywong.com/
+      avatar: https://crazywong.com/img/avatar.png
+      descr: 热衷学习，热衷生活
+    - name: Gahotx
+      link: https://gahotx.cn/
+      avatar: https://pub.gahotx.cn/photo/cat.jpg
+      descr: Don't repeat yourself
+    - name: 无垠
+      link: https://flyhigher.top/
+      avatar: /img/yrc.svg
+      descr: 飞翔的天空无限大
+    - name: Misaka
+      link: https://blog.likeme.moe/
+      avatar: https://res.cloudinary.com/misaka/image/upload/v1651347073/blog_img/96248319_p0-TX_s1vw9u.jpg
+      descr: 人面桃花相映红
+    - name: 张洪 Heo
+      link: https://blog.zhheo.com/
+      avatar: https://npm.elemecdn.com/guli-heo/img/avatar2.png
+      descr: 分享设计与科技生活
+    - name: iMaeGoo's Blog
+      link: https://www.imaegoo.com/
+      avatar: https://www.imaegoo.com/images/avatar.jpg
+      descr: 虹墨空间站
+    - name: 速溶
+      link: https://zzzing.cn/
+      avatar: https://zzzing.cn/usr/uploads/2022/05/3018418253.png
+      descr: 记录当下 赠予未来
+    - name: Jonny
+      link: https://jonnys.top/
+      avatar: https://jonnys.top/img/avatar.webp
+      descr: όνειροdya, fόgudiκολμο, Aix!
+
+- class_name: 开往接力
+  link_list:
+    - name: 开往本体
+      link: https://travellings.link/
+      avatar: /img/tra.png
+      descr: 开往 - 友链接力
+    - name: 开往项目
+      link: https://github.com/travellings-link/travellings/
+      avatar: /img/gh.webp
+      descr: 该项目在 Github 上的地址。
+    - name: 申请加入
+      link: https://github.com/travellings-link/travellings/issues/new/choose/
+      avatar: /img/ghi.webp
+      descr: 在该项目新建一个申请 issue。

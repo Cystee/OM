@@ -138,9 +138,9 @@
     src: url(https://cdn.casecori.top/npm/katex@latest/dist/fonts/KaTeX_Typewriter-Regular.woff2) format("woff2"), url(https://cdn.casecori.top/npm/katex@latest/dist/fonts/KaTeX_Typewriter-Regular.woff) format("woff"), url(https://cdn.casecori.top/npm/katex@latest/dist/fonts/KaTeX_Typewriter-Regular.ttf) format("truetype")
 }
 
-/*p {
+p {
     overflow-x: scroll
-}*/
+}
 
 .katex {
     text-rendering: auto;
